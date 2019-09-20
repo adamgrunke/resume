@@ -1,20 +1,20 @@
 Adam Grunke
 Seattle, WA		Full Stack Web Developer		
 
-=== CONTACT =====================================================================================================================================================================
+=== CONTACT =========================================================================================
 adam.grunke@gmail.com | linkedin.com/in/adamgrunke | github.com/adamgrunke | AdamGrunke.com
 
-=== TECHNICAL SKILLS==========================================================================================================================================================
+=== TECHNICAL SKILLS================================================================================
 HTML 	CSS	JavaScript (JS)	React		Express		Node.js		JWT Authentication
 AJAX	SQL	Typescript (TS)	GitHub		Mongoose	Bcrypt 		Embedded JavaScript (EJS)
 JSON	Git	PostgreSQL	Django		Passport 	Axios		Command Line (CLI)
 OAuth	Agile	Sequelize	Heroku		REST API 	MongoDB	CRUD Operations
 
-=== EDUCATION =================================================================================================================================================================
+=== EDUCATION =======================================================================================
 Software Engineering Immersive 						General Assembly Seattle
 Bachelor of Science (BS) - Electronics Engineering Technology (EET)		Western Washington University
 
-=== RELEVANT EXPERIENCE - PROJECTS ================================================================================================================================
+=== RELEVANT EXPERIENCE - PROJECTS ==================================================================
 Spiffy – Full Stack Web App
 Tech – React (hooks), Typescript, JavaScript, Node.js, CSS, MongoDB, Mongoose, Passport, OAuth (Spotify), Axios, Express
 Playlist generator that allows the user to create a new playlist with a minimal effort while maximizing specificity. The Spotify API provides tools to tune the attributes of a playlist that users do not have access to in their native app. 
@@ -30,7 +30,7 @@ Neighborhood cleanup app that allows the user to save the location of an item th
 Checkers – Front End Web Game
 Tech - JavaScript, CSS, HTML
 
-=== ADDITIONAL EXPERIENCE===============================================================================================================================================
+=== ADDITIONAL EXPERIENCE============================================================================
 Vulcan Inc			Electronics Engineer						2015 – 2019
 Drones Program for Wildlife Conservation (anti-poaching)	
 RF Communications for long range drone operations. Video streaming from inflight payload to ground control. EO/IR camera payload operations. Design/Create off-grid solar powered ground control locations. Designed portable and permanent antenna installations for communications link to Unmanned Aerial Vehicle (UAV).
@@ -39,6 +39,6 @@ Holodome Project
 
 Silicon Energy LLC		Manufacturing Engineer					2009 – 2014
 Solar Panel Manufacturer. Process automation, optimization, and documentation. Glass on glass lamination recipe development. Soldering recipe development for solar cells. Managed layout of two facilities. 
-				 
+
 OutBack Power Systems	Manufacturing Engineer					2004 – 2009
 Inverter Manufacturer. Designed, developed, and maintained test equipment for high power and board level product testing. Managed new product design handoff from engineering to improve manufacturability of product. 
