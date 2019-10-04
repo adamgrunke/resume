@@ -6,11 +6,8 @@
 
 ### TECHNICAL SKILLS
 | HTML 	|   CSS	    |   JavaScript (JS)	|   React	|   Express		|   Node.js		|   JWT Authentication  |
-| ------|-----------|-------------------|-----------|---------------|---------------|---------------------- |
 | AJAX	|   SQL	    |   Typescript (TS)	|   GitHub	|   Mongoose	|   Bcrypt 		|   Embedded JavaScript |
-| ------|-----------|-------------------|-----------|---------------|---------------|-----------------------|
 | JSON	|   Git	    |   PostgreSQL	    |   Django	|   Passport 	|   Axios		|   Command Line (CLI)  |
-| ------|-----------|-------------------|-----------|---------------|---------------|-----------------------|
 | OAuth	|   Agile	|   Sequelize	    |   Heroku	|   REST API 	|   MongoDB	    |   CRUD Operations     |
 <!-- HTML 	CSS	JavaScript (JS)	React		Express		Node.js		JWT Authentication
 AJAX	SQL	Typescript (TS)	GitHub		Mongoose	Bcrypt 		Embedded JavaScript (EJS)
