@@ -5,14 +5,14 @@
 <adam.grunke@gmail.com> | [linkedin.com/in/adamgrunke](https://www.linkedin.com/in/adamgrunke/) | [github.com/adamgrunke](https://github.com/adamgrunke) | [AdamGrunke.com](adamgrunke.com) | 206.920.2814
 
 ### TECHNICAL SKILLS
- HTML 	   CSS	       JavaScript (JS)	   React	   Express		   Node.js		   JWT Authentication  
- AJAX	   SQL	       Typescript (TS)	   GitHub	   Mongoose	       Bcrypt 		   Embedded JavaScript 
- JSON	   Git	       PostgreSQL	       Django	   Passport 	   Axios		   Command Line (CLI)  
- OAuth	   Agile	   Sequelize	       Heroku	   REST API 	   MongoDB	       CRUD Operations     
+HTML, CSS, JavaScript (JS), TypeScript, React, Express, Node.js, 
+SQL, Sequelize, PostgreSQL, MongoDB, Mongoose, Django, AJAX, Axios,
+JWT Authentication, OAuth JSON, Bcrypt GitHub, Git, Passport, 
+Embedded JavaScript (EJS), Agile, Heroku, CRUD Operations     
 
 ### EDUCATION
-Software Engineering Immersive 						General Assembly Seattle
-Bachelor of Science (BS) - Electronics Engineering Technology (EET)		Western Washington University
+#### Software Engineering Immersive 						General Assembly Seattle
+#### Bachelor of Science (BS) - Electronics Engineering Technology (EET)		Western Washington University
 
 ### PROJECTS
 **Spiffy** – Full Stack Web App
