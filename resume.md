@@ -2,7 +2,7 @@
 ## Seattle, WA		Full Stack Web Developer		
 
 CONTACT
-adam.grunke@gmail.com | [linkedin.com/in/adamgrunke](https://www.linkedin.com/in/adamgrunke/) | github.com/adamgrunke | AdamGrunke.com | 206.920.2814
+adam.grunke@gmail.com | [linkedin.com/in/adamgrunke](https://www.linkedin.com/in/adamgrunke/) | [github.com/adamgrunke](https://github.com/adamgrunke) | [AdamGrunke.com] | 206.920.2814
 
 TECHNICAL SKILLS
 HTML 	CSS	JavaScript (JS)	React		Express		Node.js		JWT Authentication
