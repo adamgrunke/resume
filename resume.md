@@ -5,13 +5,13 @@
 <adam.grunke@gmail.com> | [linkedin.com/in/adamgrunke](https://www.linkedin.com/in/adamgrunke/) | [github.com/adamgrunke](https://github.com/adamgrunke) | [AdamGrunke.com](adamgrunke.com) | 206.920.2814
 
 ### TECHNICAL SKILLS
-HTML 	|   CSS	|   JavaScript (JS)	|   React	|   Express		|   Node.js		|   JWT Authentication
--------------------------------------------------------------------------------------------------------------
-AJAX	|   SQL	|   Typescript (TS)	|   GitHub	|   Mongoose	|   Bcrypt 		|   Embedded JavaScript (EJS)
--------------------------------------------------------------------------------------------------------------
-JSON	|   Git	|   PostgreSQL	    |   Django	|   Passport 	|   Axios		|   Command Line (CLI)
--------------------------------------------------------------------------------------------------------------
-OAuth	|   Agile	|   Sequelize	|   Heroku	|   REST API 	|   MongoDB	    |   CRUD Operations
+| HTML 	|   CSS	    |   JavaScript (JS)	|   React	|   Express		|   Node.js		|   JWT Authentication  |
+| ------|-----------|-------------------|-----------|---------------|---------------|---------------------- |
+| AJAX	|   SQL	    |   Typescript (TS)	|   GitHub	|   Mongoose	|   Bcrypt 		|   Embedded JavaScript |
+| ------|-----------|-------------------|-----------|---------------|---------------|-----------------------|
+| JSON	|   Git	    |   PostgreSQL	    |   Django	|   Passport 	|   Axios		|   Command Line (CLI)  |
+| ------|-----------|-------------------|-----------|---------------|---------------|-----------------------|
+| OAuth	|   Agile	|   Sequelize	    |   Heroku	|   REST API 	|   MongoDB	    |   CRUD Operations     |
 <!-- HTML 	CSS	JavaScript (JS)	React		Express		Node.js		JWT Authentication
 AJAX	SQL	Typescript (TS)	GitHub		Mongoose	Bcrypt 		Embedded JavaScript (EJS)
 JSON	Git	PostgreSQL	Django		Passport 	Axios		Command Line (CLI)
